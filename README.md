@@ -2,8 +2,8 @@
 
 **Overview:**
 
-**Project:** Deliver Insights to Management
-**Function**: Executive Management
+**Project:** Deliver Insights to Management.
+**Function**: Executive Management.
 
 **About the Company**:
 
